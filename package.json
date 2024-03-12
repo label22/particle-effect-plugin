@@ -1,0 +1,16 @@
+{
+  "name": "particle-effect-plugin",
+  "version": "1.0.0",
+  "author": "label",
+  "description": "A particle effect plugin",
+  "keywords": ["particle", "effect", "canvas"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/label22/particle-effect-plugin"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
